@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 342daa00e5f077a45a4aba378ce8fdc3, type: 3}
+  m_Name: Bug
+  m_EditorClassIdentifier: 
+  superEffectiveAgainst:
+  - {fileID: 11400000, guid: 52b7ea8327d32c945a9af88df1152633, type: 2}
+  - {fileID: 11400000, guid: a9b13606ae1071c419f1889fdb1d2417, type: 2}
+  - {fileID: 11400000, guid: e227615e91cbc9d4a848d11bcc8767e9, type: 2}
+  notEffectiveAgainst:
+  - {fileID: 11400000, guid: ffe5d16d364bcb04fa3d31b02d4618ce, type: 2}
+  - {fileID: 11400000, guid: 7509604a9c501a546a34095eccaa50a4, type: 2}
+  - {fileID: 11400000, guid: dd04be1b4d10f2b43878a36565e265b4, type: 2}
+  - {fileID: 11400000, guid: 34c75ae95b788f94a9cdfdb3fb74a375, type: 2}
+  - {fileID: 11400000, guid: 5a870e76587ee884e9c885f705e4fa68, type: 2}
+  - {fileID: 11400000, guid: fe5bcc8704e05d643879fe7b1dde819b, type: 2}
+  noDamageAgainst: []

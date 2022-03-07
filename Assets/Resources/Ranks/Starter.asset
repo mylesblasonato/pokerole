@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcd02521e488ca4bbd9d434a0871a91, type: 3}
+  m_Name: Starter
+  m_EditorClassIdentifier: 
+  extraPointsToDistributeOnStats: 0
+  extraPointsToDistributeOnSocial: 0
+  extraSkillPointsToDistribute: 5
+  skillLimitIncrease: 1
+  maxTargetOfPokemon: 2
+  description: "You begin your career right here, a newbie without any real experience.
+    Most wild Pok\xE9mon won't listen to you and even your own Pok\xE9mon will have
+    a hard time understanding anything that doesn\u2019t fit their primitive instincts
+    as you simply don't have enough idea of your Pok\xE9mon's potential"
+  achievements:
+  - "Get your Trainer\u2019s License (Character Sheet)."
+  - "Get your first Pok\xE9mon."
+  achievementsCompleted: 0000
